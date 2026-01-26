@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 12 janv. 2026, 12:40:07
+    Author     : lukas.godayol-bonay
+*/
+
+btn btn-secondary {
+    background-color: blue;
+    color: blue ;
+    
+}
+
+h1 {
+    text-shadow: 5px 5px #558abb;
+    text-align: center;
+}
+
+image {
+    align-self: center;
+}
