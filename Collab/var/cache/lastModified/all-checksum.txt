@@ -1,0 +1,15 @@
+platform=1692867948000
+cluster.nb=1692869070000
+cluster.ide=1692868366000
+cluster.extide=1692868406000
+cluster.webcommon=1692868510000
+cluster.websvccommon=1692868416000
+cluster.php=1692869242000
+cluster.harness=1692867968000
+cluster.cpplite=1692869818000
+user=1692869818000
+crc=7
+locale=fr_FR
+branding=nb
+java.version=21.0.1
+java.vm.version=21.0.1+12-LTS-29
