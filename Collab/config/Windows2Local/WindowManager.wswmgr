@@ -3,10 +3,10 @@
 <windowmanager version="2.1">
     <main-window>
   <joined-properties
-   x="96"
-   y="76"
-   width="1728"
-   height="928"
+   x="953"
+   y="0"
+   width="974"
+   height="1039"
    relative-x="0.0"
    relative-y="0.0"
    relative-width="0.0"
@@ -33,7 +33,7 @@
   </main-window>
     <editor-area state="joined" frame-state="0">
   <constraints>
-  <path orientation="horizontal" number="60" weight="0.7" />
+  <path orientation="horizontal" number="60" weight="0.7989473684210526" />
   <path orientation="vertical" number="40" weight="0.7" />
   <path orientation="horizontal" number="40" weight="0.7" />
   <path orientation="vertical" number="40" weight="0.5" />
@@ -44,6 +44,13 @@
     <active-mode name="editor"/>
     <toolbar configuration="Standard" preferred-icon-size="24"/>
     <tc-list>
+  <tc-id id="projectTabLogical_tc"/>
+  <tc-id id="MultiView-editorE9CA9DCFtext#002Ehistory#007C"/>
+  <tc-id id="GitRepositories"/>
+  <tc-id id="navigatorTC"/>
+  <tc-id id="MultiView-html#002EsoD3B7C253xt#002Ehistory#007C_1"/>
+  <tc-id id="projectTab_tc"/>
+  <tc-id id="services"/>
   <tc-id id="Welcome"/>
     </tc-list>
 </windowmanager>

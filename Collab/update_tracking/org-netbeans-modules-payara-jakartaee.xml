@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.payara.jakartaee/0">
+    <module_version install_time="1770026497456" last="true" origin="NetBeans Distribution" specification_version="2.16">
+        <file crc="680010823" name="config/Modules/org-netbeans-modules-payara-jakartaee.xml"/>
+        <file crc="1426130655" name="modules/org-netbeans-modules-payara-jakartaee.jar"/>
+    </module_version>
+</module>

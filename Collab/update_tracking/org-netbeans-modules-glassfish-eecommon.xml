@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.glassfish.eecommon/0">
+    <module_version install_time="1770026498015" last="true" origin="NetBeans Distribution" specification_version="1.58.0.1.1">
+        <file crc="2094030658" name="config/Modules/org-netbeans-modules-glassfish-eecommon.xml"/>
+        <file crc="3629588496" name="modules/org-netbeans-modules-glassfish-eecommon.jar"/>
+    </module_version>
+</module>

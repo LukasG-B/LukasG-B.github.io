@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.maven.htmlui">
+    <module_version install_time="1770026498470" last="true" origin="NetBeans Distribution" specification_version="1.21">
+        <file crc="2058101879" name="config/Modules/org-netbeans-modules-maven-htmlui.xml"/>
+        <file crc="987367270" name="modules/org-netbeans-modules-maven-htmlui.jar"/>
+    </module_version>
+</module>
