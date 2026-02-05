@@ -12,12 +12,29 @@ btn btn-secondary {
     color: blue ;
     
 }
-
+btn btn-primary btn-lg{
+    background-color:blueviolet;
+    color: blueviolet;
+}
+body{
+    background-color: lightskyblue;
+}
+footer {
+    background-color: lightskyblue;
+}
 h1 {
-    text-shadow: 5px 5px #558abb;
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+h2 {
+    border:2px solid black;
+    padding: 5px 10px;
+    color:black;
     text-align: center;
 }
 
-image {
+img-fluid{
     align-self: center;
 }
