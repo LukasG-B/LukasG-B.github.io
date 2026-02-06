@@ -15,14 +15,22 @@ btn btn-secondary {
 #manavbar{
     opacity: 0.95;
 }
-body{
+footer{
     background-color: lightskyblue;
+    background-image: url(images/FondFooter.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    min-height: 100vh; /* L'image occupe 80% de la hauteur de la fenêtre */
+    color: white;
 }
 
 h1 {
+    margin-top: 40px;
     text-align: center;
     color: white;
-    -webkit-text-stroke: 1px black;
+ 
 }
 
 h2 {
@@ -31,7 +39,19 @@ h2 {
     color:black;
     text-align: center;
 }
+#parag{
+    
+    color:black;
+    text-align: center;
+}
 
-img-fluid{
-    align-self: center;
+    
+#FondDeBody{
+    background-image: url(images/Fond.jpg); /* Remplacez par votre image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    min-height: 100vh; /* L'image occupe 80% de la hauteur de la fenêtre */
+    color: white;
 }
