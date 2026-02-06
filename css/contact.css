@@ -3,15 +3,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to c
 Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
 */
 /* 
-    Created on : 12 janv. 2026, 12:40:07
+    Created on : 6 févr. 2026, 11:06:59
     Author     : lukas.godayol-bonay
 */
-
-btn btn-secondary {
-    background-color: blue;
-    color: blue ;
-    
-}
 
 body{
     background-color: lightskyblue;
@@ -30,8 +24,4 @@ h2 {
     padding: 5px 10px;
     color:black;
     text-align: center;
-}
-
-img-fluid{
-    align-self: center;
 }
