@@ -7,11 +7,16 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Author     : lukas.godayol-bonay
 */
 
-btn btn-secondary {
-    background-color: whitesmoke;
-    color: blue ;
+body{
+    margin-top:0;
     
+
 }
+.btn.btn-secondary {
+    background-color: whitesmoke;
+    color: black;
+}
+
 #manavbar{
     opacity: 0.95;
 }
@@ -21,15 +26,15 @@ footer{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 50px;
-    min-height: 100vh; /* L'image occupe 80% de la hauteur de la fenêtre */
-    color: white;
+    padding:50px;
+    min-height: 60vh; /* L'image occupe 80% de la hauteur de la fenêtre */
+
 }
 
 h1 {
     margin-top: 40px;
     text-align: center;
-    color: white;
+    color: lightskyblue;
  
 }
 
@@ -45,13 +50,13 @@ h2 {
     text-align: center;
 }
 
-    
 #FondDeBody{
-    background-image: url(images/Fond.jpg); /* Remplacez par votre image */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    padding: 50px;
-    min-height: 100vh; /* L'image occupe 80% de la hauteur de la fenêtre */
-    color: white;
+    background-color: black;
+    
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-image: url(images/Fond.jpg);
+    min-height: 80vh;
 }
