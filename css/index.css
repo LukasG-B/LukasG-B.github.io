@@ -8,17 +8,17 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 */
 
 btn btn-secondary {
-    background-color: blue;
+    background-color: whitesmoke;
     color: blue ;
     
 }
-
+#manavbar{
+    opacity: 0.95;
+}
 body{
     background-color: lightskyblue;
 }
-footer {
-    background-color: lightskyblue;
-}
+
 h1 {
     text-align: center;
     color: white;

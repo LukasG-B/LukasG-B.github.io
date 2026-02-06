@@ -10,7 +10,9 @@ h1 {
     color: white;
     -webkit-text-stroke: 1px black;
 }
-
+#manavbar{
+    opacity: 0.95;
+}
 h2 {
     border:2px solid black;
     padding: 5px 10px;
