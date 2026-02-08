@@ -1,9 +1,20 @@
-body { padding-top: 50px; }
-body{
-    background-color: lightskyblue;
+body { padding-top: 50px; 
+    background-color: black;
 }
-footer {
+footer{
     background-color: lightskyblue;
+    background-image: url(images/FondFooter.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding:50px;
+    min-height: 60vh; /* L'image occupe 80% de la hauteur de la fenêtre */
+
+.btn.btn-secondary {
+    background-color: whitesmoke;
+    color: black;
+}
+
 }
 h1 {
     text-align: center;
@@ -56,12 +67,20 @@ h2 {
     content: '';
     display: block;
 }
-
+.btn.btn-secondary {
+    background-color: whitesmoke;
+    color: black;
+}
+.jumbotron {
+    margin-bottom: 0;
+    background-color: black;
+    min-height: 80vh;
+}
 /****************************************
 *     Rubriques
 ****************************************/
 .rubrique { margin-bottom: 15px; }
-.rubrique h2 { color: rgb(226,0,26); }
+.rubrique h2 { color: lightskyblue; }
 .rubrique h2::before{ margin-right: 5px; }
 .rubrique p{ font-size: 1.3em; line-height: 1.5em; }
 
@@ -71,7 +90,7 @@ h2 {
 #parcours { margin-top: 20px; position: relative; padding: 1em 0; list-style: none; }
 #parcours::before { width: 5px; height: 100%; position: absolute; left: 7.8px; top: 0; 
                     display: block; background: linear-gradient(to bottom, #ffffff 0%, 
-                        #E2001A 7%, #E2001A, #ffffff 100%); content:""; }
+                        lightskyblue,lightskyblue, #ffffff 100%); content:""; }
 #parcours li { width: 100%; z-index: 2; position: relative; float: left; }
 #parcours .date .glyphicon-record::before { background: #FFFFFF; color: #555; }
 #parcours .date { width: 75px; background-color: rgba(0, 0, 0, 0); font-size: 1.5em; 

@@ -13,4 +13,21 @@
     }
 }
 
-.jumbotron { margin-bottom: 0px; }
+.jumbotron {
+    margin-bottom: 0;
+   
+}
+
+footer{
+    background-color: lightskyblue;
+    background-image: url(images/FondFooter.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding:50px;
+    min-height: 60vh; /* L'image occupe 80% de la hauteur de la fenêtre */
+
+}
+#manavbar{
+    opacity: 0.95;
+}
