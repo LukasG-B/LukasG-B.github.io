@@ -10,7 +10,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 body{
     margin-top:0;
     width: 100%;
-
+background: linear-gradient(0.25turn, #141e30, #274046);
 }
 .btn.btn-secondary {
     background-color: whitesmoke;
@@ -19,8 +19,12 @@ body{
 
 #manavbar{
     opacity: 0.95;
+   
 }
 footer{
+    width: 100%;
+    position: absolute;
+    bottom:0;
     background-color: lightskyblue;
     background-image: url(images/FondFooter.jpg);
     background-size: cover;
@@ -50,19 +54,22 @@ h2 {
 
 
 
-.jumbotron {
-    margin-bottom: 0;
-    background-color: black;
-    color : lightskyblue;
-}
 
 #matete{
-    width:30% ;
-    height:10%;
+    width:15% ;
+    height:5%;
     display: block;
     margin: 0 auto;
     max-width: 100%;
     border: 3px solid black; 
     border-radius: 8px; 
     box-shadow: 0 0 15px rgba(100, 200, 255, 0.6);
+}
+.hero-section{
+  margin-top:55px; 
+   background: linear-gradient(0.25turn, #141e30, #274046);
+   color : lightskyblue;
+}
+#bloc-accueil{
+    
 }
